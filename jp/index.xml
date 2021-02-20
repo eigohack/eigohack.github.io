@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jps on Time is life</title>
+    <link>https://eigohack.github.io/jp/</link>
+    <description>Recent content in Jps on Time is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Feb 2021 19:13:46 +0900</lastBuildDate><atom:link href="https://eigohack.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://eigohack.github.io/jp/post/about/</link>
+      <pubDate>Sat, 20 Feb 2021 19:13:46 +0900</pubDate>
+      
+      <guid>https://eigohack.github.io/jp/post/about/</guid>
+      <description>twitter @eigohack8</description>
+    </item>
+    
+  </channel>
+</rss>

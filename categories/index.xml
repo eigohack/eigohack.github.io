@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Time is life</title>
+    <link>https://eigohack.github.io/categories/</link>
+    <description>Recent content in Categories on Time is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Feb 2021 19:13:46 +0900</lastBuildDate><atom:link href="https://eigohack.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://eigohack.github.io/categories/about/</link>
+      <pubDate>Sat, 20 Feb 2021 19:13:46 +0900</pubDate>
+      
+      <guid>https://eigohack.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
