@@ -32,5 +32,17 @@ https://www.amazon.co.jp/dp/B07QVHZJL8/ref=cm_sw_em_r_mt_dp_P0WNTWA4ZG3RZJ4SE7JB
 IUT and abc予想を理解するためのまとめ</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://eigohack.github.io/jp/post/kaggle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eigohack.github.io/jp/post/kaggle/</guid>
+      <description>Kaggle基礎 Kaggle Day-1 Titanic タイタニック号の生存者の分析
+https://www.kaggle.com/alexisbcook/titanic-tutorial
+日本語での解説はこちらが分かりやすいです。 https://www.codexa.net/kaggle-titanic-beginner/
+Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～ - Qiita</description>
+    </item>
+    
   </channel>
 </rss>
