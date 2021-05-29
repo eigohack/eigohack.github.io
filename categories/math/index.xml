@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Time is life</title>
-    <link>https://eigohack.github.io/categories/math/</link>
+    <link>https://timeislife.tech/categories/math/</link>
     <description>Recent content in Math on Time is life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 20 Feb 2021 19:13:46 +0900</lastBuildDate><atom:link href="https://eigohack.github.io/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2021 19:13:46 +0900</lastBuildDate><atom:link href="https://timeislife.tech/categories/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IUT and abc</title>
-      <link>https://eigohack.github.io/tech/iut-abc/</link>
+      <link>https://timeislife.tech/tech/iut-abc/</link>
       <pubDate>Sat, 20 Feb 2021 19:13:46 +0900</pubDate>
       
-      <guid>https://eigohack.github.io/tech/iut-abc/</guid>
+      <guid>https://timeislife.tech/tech/iut-abc/</guid>
       <description>一般向けIUT・abc予想について理解する 足し算と掛け算に関わる関係を明らかにする理論と言われます。 また、強いabc予想のもとでは、フェルマーの最終定理が背理法により簡単に導出されます。
 ABC予想のよくある間違い https://tsujimotter.hatenablog.com/entry/misunderstanding-of-abc-conjecture
 動画 abc Conjecture and New Mathematics - Prof. Fumiharu Kato, Oct 7, 2017 (with English subtitles) https://www.youtube.com/watch?v=fNS7N04DLAQ
