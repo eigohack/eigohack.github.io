@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on Time is life</title>
+    <link>https://eigohack.github.io/tags/vim/</link>
+    <description>Recent content in vim on Time is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://eigohack.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VIM Memo</title>
+      <link>https://eigohack.github.io/tech/vim/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://eigohack.github.io/tech/vim/</guid>
+      <description>基本操作 ファイル操作    操作 コマンド     ファイルを開く :e   上書き保存 :w   終了 :q   上書きして終了 :q!    モードの切り替え    操作 コマンド     インサート i   行の先頭でインサート I   行末でインサート A   次の行からインサート o   ノーマルモードへ戻る Ctrl + [ or Esc    Escキーの配置は物理キーボードの仕様に依存するため、 ノーマルモードへ戻る際はEscapeキーではなく Ctrl+[ で戻る癖をつけると良いです。
+確認しながら置換する :%s/置換前/置換後/gc Python向けvim環境 GUI環境では、PycharmなどのIDEを使えばいいですが、CUI環境で手軽にコーディングしたい場合は、vimが一番です。 vimにJEDIを導入してPython開発を効率化します。</description>
+    </item>
+    
+  </channel>
+</rss>

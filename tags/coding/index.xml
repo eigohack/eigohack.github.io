@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Time is life</title>
+    <link>https://eigohack.github.io/tags/coding/</link>
+    <description>Recent content in coding on Time is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eigohack.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>プログラミング学習</title>
+      <link>https://eigohack.github.io/tech/learn-coding/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eigohack.github.io/tech/learn-coding/</guid>
+      <description>プログラミングを独習するには10年かかる プログラミングを独習するには10年かかる
+プログラマが知るべき97のこと プログラマが知るべき97のこと</description>
+    </item>
+    
+  </channel>
+</rss>

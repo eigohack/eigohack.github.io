@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Time is life</title>
+    <link>https://eigohack.github.io/categories/security/</link>
+    <description>Recent content in Security on Time is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eigohack.github.io/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Cyber Security</title>
+      <link>https://eigohack.github.io/tech/cybersec/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eigohack.github.io/tech/cybersec/</guid>
+      <description>フレームワーク NIST Cyber Security Framework NIST CSFポイント従来のISO-27001が予防や防御を中心に対策を要求していましたが、NISTのCSFでは、以下の5つのフェーズで対策を要求しています。
+    Phase　 フェーズ　     ID 　IDENTIFY 　特定   PT 　PROTECTION 防御   DE 　DETECTION 　検知   RE 　RESPONSE 　対応   RC 　RECOVER 復旧    Security Basic セキュリティ成熟度 FFIEC-CAT 金融向けですが、サイバー・セキュリティ管理の成熟度評価ガイドラインです。 https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_May_2017.pdf
+Daily Monitoring https://morningstarsecurity.com/news
+CTI CTF https://overthewire.org/wargames/
+セキュリティモデル全般
+日本語資料をとても少ないですが、IPAのこちらの資料が基礎から詳細まで含まれており内容が充実しています。アクセス制御に関するセキュリティポリシーモデルの調査報告書Bell-La Padula and Biba</description>
+    </item>
+    
+  </channel>
+</rss>

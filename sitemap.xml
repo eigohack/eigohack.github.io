@@ -3,6 +3,160 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eigohack.github.io/categories/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/coding/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/ctf/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/data-analysis/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/data-analysus/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/hacking/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/learn/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/cybersec/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/algorithm/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/python-da/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/programing/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/categories/python/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/python/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/categories/security/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tags/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/categories/tech/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/learn-coding/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/post/book-movie/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/post/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/post/words/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/kaggle/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://eigohack.github.io/tags/about/</loc>
     <lastmod>2021-02-20T19:13:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,28 +171,14 @@
   </url>
   
   <url>
-    <loc>https://eigohack.github.io/jp/post/about/</loc>
+    <loc>https://eigohack.github.io/about/</loc>
     <lastmod>2021-02-20T19:13:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eigohack.github.io/categories/</loc>
-    <lastmod>2021-02-20T19:13:46+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://eigohack.github.io/jp/post/iut-abc/</loc>
-    <lastmod>2021-02-20T19:13:46+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://eigohack.github.io/jp/</loc>
+    <loc>https://eigohack.github.io/tech/iut-abc/</loc>
     <lastmod>2021-02-20T19:13:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,21 +199,58 @@
   </url>
   
   <url>
-    <loc>https://eigohack.github.io/tags/</loc>
-    <lastmod>2021-02-20T19:13:46+09:00</lastmod>
+    <loc>https://eigohack.github.io/tags/vim/</loc>
+    <lastmod>2021-02-20T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/vim/</loc>
+    <lastmod>2021-02-20T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://eigohack.github.io/</loc>
-    <lastmod>2021-02-20T19:13:46+09:00</lastmod>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://eigohack.github.io/jp/post/kaggle/</loc>
+    <loc>https://eigohack.github.io/post/wine/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/atom/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/learn-python/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/mac-memo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/pyportopt/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://eigohack.github.io/tech/quants/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
