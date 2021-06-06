@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Time is life</title>
+    <link>https://timeislife.tech/tags/</link>
+    <description>Recent content in Tags on Time is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coding</title>
+      <link>https://timeislife.tech/tags/coding/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data analysis</title>
+      <link>https://timeislife.tech/tags/data-analysis/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data analysus</title>
+      <link>https://timeislife.tech/tags/data-analysus/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tags/data-analysus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learn</title>
+      <link>https://timeislife.tech/tags/learn/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tags/learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programing</title>
+      <link>https://timeislife.tech/tags/programing/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tags/programing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://timeislife.tech/tags/python/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wine</title>
+      <link>https://timeislife.tech/tags/wine/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tags/wine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://timeislife.tech/tags/about/</link>
+      <pubDate>Sat, 20 Feb 2021 19:13:46 +0900</pubDate>
+      
+      <guid>https://timeislife.tech/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://timeislife.tech/tags/math/</link>
+      <pubDate>Sat, 20 Feb 2021 19:13:46 +0900</pubDate>
+      
+      <guid>https://timeislife.tech/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://timeislife.tech/tags/vim/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://timeislife.tech/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

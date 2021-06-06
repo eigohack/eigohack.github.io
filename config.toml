@@ -1,0 +1,59 @@
+title = "Time is life"
+#baseURL = "https://eigohack.github.io"
+baseURL = "https://timeislife.tech"
+defaultContentLanguage = "ja"
+languageCode = "ja-jp"
+theme = "gohugo-theme-ananke"
+themesDir = "./themes"
+resourceDir = "./resources"
+canonifurls = true
+publishDir = "docs"
+pluralizeListTitles = false
+googleAnalytics = "G-W3XNQVE23J"
+
+[menu]
+    [[menu.main]]
+        name = "Tech"
+        url = "/tech"
+        weight = 1
+    [[menu.main]]
+        name = "Post"
+        url = "/post"
+        weight = 2
+
+#    [[menu.main]]
+#        name = "kaggle"
+#        url = "/kaggle"
+#        weight = 2
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[params]
+  custom_css = ["css/custom.css"]
+  favicon = "/images/Einstein.png"
+#  site_logo = "/images/Einstein.png"
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/eigohack8"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/topimage.jpg"
+  profile_image = "/images/topimage.jpg"
+  recent_posts_number = 2

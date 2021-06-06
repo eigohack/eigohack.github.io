@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data analysus on Time is life</title>
+    <link>https://timeislife.tech/tags/data-analysus/</link>
+    <description>Recent content in data analysus on Time is life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/tags/data-analysus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning with Python</title>
+      <link>https://timeislife.tech/tech/algorithm/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tech/algorithm/</guid>
+      <description>work
+決定木について https://www.kaggle.com/dansbecker/how-models-work</description>
+    </item>
+    
+  </channel>
+</rss>
