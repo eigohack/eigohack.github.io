@@ -6,7 +6,18 @@
     <description>Recent content in tech on Time is life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>github</title>
+      <link>https://timeislife.tech/tech/github/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tech/github/</guid>
+      <description>Error handling / エラー処理 git pull error: Your local changes to the following files would be overwritten by merge: Please commit your changes or stash them before you merge. Aborting git pullでマージエラーが発生した場合の対処です
+error: Your local changes to the following files would be overwritten by merge: test.py Please commit your changes or stash them before you merge. Aborting Solve it by overwriting 上書きして解決する場合 ullの元が正しい前提で上書きを行います。
+git fetch origin master git reset --hard origin/master git pull origin/master </description>
+    </item>
+    
     <item>
       <title>Capture the Flag</title>
       <link>https://timeislife.tech/tech/ctf/</link>
