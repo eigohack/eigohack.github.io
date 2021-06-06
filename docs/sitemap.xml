@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://timeislife.tech/categories/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timeislife.tech/tags/error/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timeislife.tech/tech/python-err/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timeislife.tech/categories/python/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timeislife.tech/tags/python/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timeislife.tech/tags/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timeislife.tech/tech/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://timeislife.tech/tech/ctf/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,35 +59,7 @@
   </url>
   
   <url>
-    <loc>https://timeislife.tech/categories/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://timeislife.tech/tags/ctf/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timeislife.tech/tags/python/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timeislife.tech/tags/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timeislife.tech/tech/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,21 +87,7 @@
   </url>
   
   <url>
-    <loc>https://timeislife.tech/tags/data-analysus/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://timeislife.tech/tags/learn/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timeislife.tech/tech/algorithm/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -95,13 +102,6 @@
   
   <url>
     <loc>https://timeislife.tech/tags/programing/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timeislife.tech/categories/python/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -6,7 +6,21 @@
     <description>Recent content in Tech on Time is life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error in Python</title>
+      <link>https://timeislife.tech/tech/python-err/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tech/python-err/</guid>
+      <description>Could not import the lzma module Error UserWarning: Could not import the lzma module. Your installed Python is incomplete
+pandas 1.0系以降でpandasをimportすると以下のエラーが発生する
+Attempting to use lzma compression will result in a RuntimeError.
+warnings.warn(msg)
+対処 xzをbrewでインストール
+brew install xz pyenv uninstall 3.7.3 pyenv install 3.7.3 pyenv global 3.7.3 pip install pandas </description>
+    </item>
+    
     <item>
       <title>Capture the Flag</title>
       <link>https://timeislife.tech/tech/ctf/</link>
@@ -17,16 +31,6 @@
  zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
 zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
 zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip </description>
-    </item>
-    
-    <item>
-      <title>Machine Learning with Python</title>
-      <link>https://timeislife.tech/tech/algorithm/</link>
-      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://timeislife.tech/tech/algorithm/</guid>
-      <description>work
-決定木について https://www.kaggle.com/dansbecker/how-models-work</description>
     </item>
     
     <item>

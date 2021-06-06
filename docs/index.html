@@ -169,17 +169,19 @@
       
       <div class="blah w-100">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="https://timeislife.tech/tech/ctf/" class="color-inherit dim link">
-            Capture the Flag
+          <a href="https://timeislife.tech/tech/python-err/" class="color-inherit dim link">
+            Error in Python
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          CTF基礎 暗号解読 換字式暗号 文字の変換テーブルベースの暗号です。
- zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
-zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
-zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip 
+          Could not import the lzma module Error UserWarning: Could not import the lzma module. Your installed Python is incomplete
+pandas 1.0系以降でpandasをimportすると以下のエラーが発生する
+Attempting to use lzma compression will result in a RuntimeError.
+warnings.warn(msg)
+対処 xzをbrewでインストール
+brew install xz pyenv uninstall 3.7.3 pyenv install 3.7.3 pyenv global 3.7.3 pip install pandas 
         </div>
-          <a href="https://timeislife.tech/tech/ctf/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+          <a href="https://timeislife.tech/tech/python-err/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
         
       </div>
     </div>
@@ -196,15 +198,17 @@ zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain
       
       <div class="blah w-100">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="https://timeislife.tech/tech/algorithm/" class="color-inherit dim link">
-            Machine Learning with Python
+          <a href="https://timeislife.tech/tech/ctf/" class="color-inherit dim link">
+            Capture the Flag
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          work
-決定木について https://www.kaggle.com/dansbecker/how-models-work
+          CTF基礎 暗号解読 換字式暗号 文字の変換テーブルベースの暗号です。
+ zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
+zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
+zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip 
         </div>
-          <a href="https://timeislife.tech/tech/algorithm/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+          <a href="https://timeislife.tech/tech/ctf/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
         
       </div>
     </div>
