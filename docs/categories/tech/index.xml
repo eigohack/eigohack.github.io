@@ -6,7 +6,16 @@
     <description>Recent content in tech on Time is life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capture the Flag</title>
+      <link>https://timeislife.tech/tech/ctf/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tech/ctf/</guid>
+      <description>CTF基礎 暗号解読 シーザー暗号 pkcrack pkcrack -C password.zip -P hirame.zip -p hirame.jpg -c hirame.jpg -d ./crack.zip</description>
+    </item>
+    
     <item>
       <title>プログラミング学習</title>
       <link>https://timeislife.tech/tech/learn-coding/</link>
