@@ -6,7 +6,10 @@
     
     <title>Capture the Flag | Time is life</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="CTF基礎 暗号解読 シーザー暗号 pkcrack pkcrack -C password.zip -P hirame.zip -p hirame.jpg -c hirame.jpg -d ./crack.zip">
+    <meta name="description" content="CTF基礎 暗号解読 換字式暗号 文字の変換テーブルベースの暗号です。
+ zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
+zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
+zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip ">
     <meta name="generator" content="Hugo 0.80.0" />
     
     
@@ -35,23 +38,32 @@
     
     
     <meta property="og:title" content="Capture the Flag" />
-<meta property="og:description" content="CTF基礎 暗号解読 シーザー暗号 pkcrack pkcrack -C password.zip -P hirame.zip -p hirame.jpg -c hirame.jpg -d ./crack.zip" />
+<meta property="og:description" content="CTF基礎 暗号解読 換字式暗号 文字の変換テーブルベースの暗号です。
+ zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
+zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
+zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://timeislife.tech/tech/ctf/" />
 <meta property="article:published_time" content="2021-06-02T00:00:00+00:00" />
 <meta property="article:modified_time" content="2021-06-02T00:00:00+00:00" />
 <meta itemprop="name" content="Capture the Flag">
-<meta itemprop="description" content="CTF基礎 暗号解読 シーザー暗号 pkcrack pkcrack -C password.zip -P hirame.zip -p hirame.jpg -c hirame.jpg -d ./crack.zip">
+<meta itemprop="description" content="CTF基礎 暗号解読 換字式暗号 文字の変換テーブルベースの暗号です。
+ zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
+zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
+zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip ">
 <meta itemprop="datePublished" content="2021-06-02T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2021-06-02T00:00:00+00:00" />
-<meta itemprop="wordCount" content="15">
+<meta itemprop="wordCount" content="35">
 
 
 
 <meta itemprop="keywords" content="CTF,python," />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Capture the Flag"/>
-<meta name="twitter:description" content="CTF基礎 暗号解読 シーザー暗号 pkcrack pkcrack -C password.zip -P hirame.zip -p hirame.jpg -c hirame.jpg -d ./crack.zip"/>
+<meta name="twitter:description" content="CTF基礎 暗号解読 換字式暗号 文字の変換テーブルベースの暗号です。
+ zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
+zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
+zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip "/>
 
 	
   </head>
@@ -179,10 +191,27 @@
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h1 id="ctf基礎">CTF基礎</h1>
 <h2 id="暗号解読">暗号解読</h2>
-<h3 id="シーザー暗号">シーザー暗号</h3>
-<h1 id="pkcrack">pkcrack</h1>
-<p>pkcrack -C password.zip -P hirame.zip -p hirame.jpg -c hirame.jpg -d ./crack.zip</p>
-<ul class="pa0">
+<h3 id="換字式暗号">換字式暗号</h3>
+<p>文字の変換テーブルベースの暗号です。</p>
+<script type="application/javascript" src="https://gist.github.com/eigohack/433504139ea3dfee05dea630d782a3fc.js"></script>
+
+<h2 id="zipパスワード解読">zipパスワード解読</h2>
+<h3 id="pkcrack">pkcrack</h3>
+<p>暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。
+パスワード自体が分かるわけではありません。
+指定するパラメータが分かりにくいので注意です。
+-C 暗号化されたzipファイルを指定
+-P 平文が分かるものをzip化したものを指定
+-c zipの中の平文が分かるファイルを指定
+-p 平文が分かるファイル自体を指定
+-d アウトプットファイルを指定（パスワード無しzip）</p>
+<p>zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。</p>
+<pre><code>zipinfo password.zip
+
+zip plain.jpg
+
+pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip
+</code></pre><ul class="pa0">
   
    <li class="list">
      <a href="/tags/ctf" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">CTF</a>
@@ -209,11 +238,11 @@
     <ul class="pa0 list">
 	   
 	     <li  class="mb2">
-          <a href="/tech/algorithm/">Machine Learning with Python</a>
+          <a href="/tech/python-da/">Machine Learning with Python</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/tech/python-da/">Machine Learning with Python</a>
+          <a href="/tech/algorithm/">Machine Learning with Python</a>
         </li>
 	    
     </ul>

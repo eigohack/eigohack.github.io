@@ -94,20 +94,6 @@
   </url>
   
   <url>
-    <loc>https://timeislife.tech/categories/others/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timeislife.tech/post/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://timeislife.tech/tags/programing/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -122,20 +108,6 @@
   </url>
   
   <url>
-    <loc>https://timeislife.tech/tags/wine/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timeislife.tech/post/wine/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://timeislife.tech/tech/learn-coding/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -144,6 +116,13 @@
   
   <url>
     <loc>https://timeislife.tech/post/book-movie/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timeislife.tech/post/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -147,7 +147,10 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      CTF基礎 暗号解読 シーザー暗号 pkcrack pkcrack -C password.zip -P hirame.zip -p hirame.jpg -c hirame.jpg -d ./crack.zip
+      CTF基礎 暗号解読 換字式暗号 文字の変換テーブルベースの暗号です。
+ zipパスワード解読 pkcrack 暗号化されたzipファイルのうち平文が分かるものからzipファイルの解読を行います。 パスワード自体が分かるわけではありません。 指定するパラメータが分かりにくいので注意です。 -C 暗号化されたzipファイルを指定 -P 平文が分かるものをzip化したものを指定 -c zipの中の平文が分かるファイルを指定 -p 平文が分かるファイル自体を指定 -d アウトプットファイルを指定（パスワード無しzip）
+zipinfoで得た平文が分かるファイル名と手元にある平文のファイル名を同じ名前にしておくと混乱が無いです。
+zipinfo password.zip zip plain.jpg pkcrack -C password.zip -P plain.zip -p plain.jpg -c plain.jpg -d ./cracked.zip 
     </div>
   </div>
 </div>
