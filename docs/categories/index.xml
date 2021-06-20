@@ -6,22 +6,22 @@
     <description>Recent content in Categories on Time is life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>https://timeislife.tech/categories/tech/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/categories/tech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Python</title>
       <link>https://timeislife.tech/categories/python/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://timeislife.tech/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://timeislife.tech/categories/tech/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://timeislife.tech/categories/tech/</guid>
       <description></description>
     </item>
     

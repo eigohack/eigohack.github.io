@@ -6,7 +6,22 @@
     <description>Recent content in Tech on Time is life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ショートカット/Shortcut</title>
+      <link>https://timeislife.tech/tech/shortcut/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tech/shortcut/</guid>
+      <description>OSX/Macショートカットメモ OS全般 Spotlight Search &#39;&#39;&#39; Command + Space &#39;&#39;&#39;
+画面ロック &#39;&#39;&#39; Control + Command + Q &#39;&#39;&#39;
+##　編集
+もとに戻す/Undo &#39;&#39;&#39; Command + Z &#39;&#39;&#39;
+もとに戻すを戻す/Redo &#39;&#39;&#39; Command + Shit + Z &#39;&#39;&#39;
+##　画面キャプチャ
+矩形画面キャプチャ &#39;&#39;&#39; Command + Shit + 4 &#39;&#39;&#39;</description>
+    </item>
+    
     <item>
       <title>Error in Python</title>
       <link>https://timeislife.tech/tech/python-err/</link>
@@ -104,33 +119,12 @@ https://www.amazon.co.jp/dp/B07QVHZJL8/ref=cm_sw_em_r_mt_dp_P0WNTWA4ZG3RZJ4SE7JB
     
     <item>
       <title></title>
-      <link>https://timeislife.tech/tech/atom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://timeislife.tech/tech/atom/</guid>
-      <description>パッケージ導入 atom-runner atomから直接プログラムを実行することができます。
-SXの場合デフォルトだとpython2系になります。config に以下を記載して3系で実行するようにします。</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://timeislife.tech/tech/learn-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://timeislife.tech/tech/learn-python/</guid>
       <description>初心者 https://prog-8.com/languages/python
 Python Data science handbook https://jakevdp.github.io/PythonDataScienceHandbook/</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://timeislife.tech/tech/mac-memo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://timeislife.tech/tech/mac-memo/</guid>
-      <description>zip暗号化
-zipcloakだと以下のエラーで失敗 zipcloak warning: Local Entry CRC does not match CD:
-zip -er</description>
     </item>
     
     <item>

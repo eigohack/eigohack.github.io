@@ -6,7 +6,22 @@
     <description>Recent content in tech on Time is life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timeislife.tech/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ショートカット/Shortcut</title>
+      <link>https://timeislife.tech/tech/shortcut/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://timeislife.tech/tech/shortcut/</guid>
+      <description>OSX/Macショートカットメモ OS全般 Spotlight Search &#39;&#39;&#39; Command + Space &#39;&#39;&#39;
+画面ロック &#39;&#39;&#39; Control + Command + Q &#39;&#39;&#39;
+##　編集
+もとに戻す/Undo &#39;&#39;&#39; Command + Z &#39;&#39;&#39;
+もとに戻すを戻す/Redo &#39;&#39;&#39; Command + Shit + Z &#39;&#39;&#39;
+##　画面キャプチャ
+矩形画面キャプチャ &#39;&#39;&#39; Command + Shit + 4 &#39;&#39;&#39;</description>
+    </item>
+    
     <item>
       <title>github</title>
       <link>https://timeislife.tech/tech/github/</link>
